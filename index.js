@@ -1,7 +1,7 @@
 console.log("Hello, World!");
 
-function soma(PrimeiroValor, SegundoValor) {
-    return PrimeiroValor + SegundoValor;
+function multiplicacao(PrimeiroValor, SegundoValor) {
+    return PrimeiroValor * SegundoValor;
 }
 
-console.log(soma(2,4));
+console.log(multiplicacao(2,4));
